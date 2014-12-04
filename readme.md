@@ -24,9 +24,6 @@ read the readme inside the specific directory.
  * Contains project specific drush commands, aliases, and configurations.
 * [scripts](https://github.com/Lullabot/drupal-boilerplate/tree/master/scripts)
  * A directory for project-specific scripts.
-* [test](https://github.com/Lullabot/drupal-boilerplate/tree/master/test)
- * A directory for external tests. This is great for non drupal specific tests
- such as selenium, qunit, casperjs.
 * [.gitignore](https://github.com/Lullabot/drupal-boilerplate/blob/master/.gitignore)
  * Contains the a list of the most common excluded files.
 
