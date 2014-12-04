@@ -22,10 +22,6 @@ read the readme inside the specific directory.
  * Where your drupal root should start.
 * [drush](https://github.com/Lullabot/drupal-boilerplate/tree/master/drush)
  * Contains project specific drush commands, aliases, and configurations.
-* [results](https://github.com/Lullabot/drupal-boilerplate/tree/master/results)
- * This directory is just used to export test results to. A good example of this
-   is when running drush test-run with the --xml option. You can export the xml
-   to this directory for parsing by external tools.
 * [scripts](https://github.com/Lullabot/drupal-boilerplate/tree/master/scripts)
  * A directory for project-specific scripts.
 * [test](https://github.com/Lullabot/drupal-boilerplate/tree/master/test)
